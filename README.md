@@ -1,154 +1,186 @@
-<!-- COLORFUL BANNER -->
+<!-- ===================== FUTURISTIC HEADER ===================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6a11cb,50:2575fc,100:ff4ecd&height=220&section=header&text=Data%20Science%20Explorer&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=250&section=header&text=Ramsingh%20%7C%20Data%20Scientist&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- NAME -->
-
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-
-<!-- TYPING ANIMATION -->
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+Enthusiast+🚀;Machine+Learning+Explorer+🤖;AI+%7C+Analytics+%7C+Python+Developer;Turning+Data+Into+Insights+📊"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=AI+%7C+Machine+Learning+%7C+Data+Science;Python+%7C+SQL+%7C+Analytics;Future+Data+Scientist+🚀;Turning+Data+Into+Intelligence"/>
 </p>
 
-<!-- BADGES -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOURUSERNAME&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/YOURUSERNAME?style=for-the-badge&color=ff69b4" />
-  <img src="https://img.shields.io/github/stars/YOURUSERNAME?style=for-the-badge&color=yellow" />
+  <img src="https://komarev.com/ghpvc/?username=Ramsingh122&label=Profile%20Views&color=ff00ff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Ramsingh122?style=for-the-badge&color=blueviolet"/>
+  <img src="https://img.shields.io/github/stars/Ramsingh122?style=for-the-badge&color=00ffff"/>
 </p>
 
 ---
 
-# 🌟 About Me
+# 🧊 3D ROTATING PROFILE CARD
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ramsingh122&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ramsingh122&show_icons=true&theme=radical&hide_border=true"/>
+</p>
+
+---
+
+# 🧠 AI BRAIN ANIMATION
+
+<p align="center">
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV0Z3NqN3U4cGZlZ2Z4dG9zM2x4Z3V6M2Z0aTR3N3U0aGg4c3N5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
+</p>
+
+---
+
+# 👨‍💻 ABOUT ME
 
 <table>
 <tr>
 <td width="50%">
 
-🎓 4th Year Student — Data Science
-💡 Passionate about AI, Machine Learning & Analytics
-📊 Love solving real-world problems using data
-🚀 Always learning new technologies
-🎯 Goal: Become a Data Scientist / AI Engineer
+🎓 4th Year B.Tech Student — Computer Science
+📊 Passionate about Data Science & AI
+⚡ Strong in Data Visualization & ML Models
+🚀 Future Goal: Data Scientist / AI Engineer
+
+💡 Interests:
+
+* Machine Learning
+* Predictive Analytics
+* Automation
+* Data Storytelling
 
 </td>
 
-<td width="50%">
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+
 </td>
 </tr>
 </table>
 
 ---
 
-# 🚀 Tech Stack
+# 🚀 TECH STACK
 
-### 👨‍💻 Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode"/>
+</p>
 
-![Python](https://img.shields.io/badge/Python-ffdd54?style=for-the-badge\&logo=python\&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-
-### 🤖 Data Science & ML
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy)
-![Scikit Learn](https://img.shields.io/badge/ScikitLearn-f7931e?style=for-the-badge\&logo=scikitlearn)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-ff6f00?style=for-the-badge\&logo=tensorflow)
-
-### 📊 Visualization
-
-![Power BI](https://img.shields.io/badge/PowerBI-f2c811?style=for-the-badge\&logo=powerbi)
-![Tableau](https://img.shields.io/badge/Tableau-e97627?style=for-the-badge\&logo=tableau)
-
-### ⚙️ Tools
-
-![Git](https://img.shields.io/badge/Git-f05032?style=for-the-badge\&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github)
+<p align="center">
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+</p>
 
 ---
 
-# 🌟 Featured Projects
+# 🌟 PORTFOLIO PROJECTS
 
 <table>
 <tr>
-<td width="33%">
+
+<td align="center" width="33%">
 
 ### 🎬 Movie Recommendation System
 
-AI model suggesting personalized movies using ML algorithms.
+<img src="https://via.placeholder.com/250x150.png?text=Project+Screenshot"/>
+
+ML model with 85% accuracy using Random Forest.
 
 </td>
 
-<td width="33%">
+<td align="center" width="33%">
 
-### 🦠 Covid-19 Dashboard
+### 📊 Covid-19 Dashboard
 
-Interactive data visualization dashboard with insights.
+<img src="https://via.placeholder.com/250x150.png?text=Dashboard+Preview"/>
+
+Interactive Tableau analytics dashboard.
 
 </td>
 
-<td width="33%">
+<td align="center" width="33%">
 
 ### ⏰ Clock App
 
-Creative UI digital clock using programming logic.
+<img src="https://via.placeholder.com/250x150.png?text=Java+App+Preview"/>
+
+Java GUI clock with alarms and modes.
 
 </td>
+
 </tr>
 </table>
 
 ---
 
-# 📊 GitHub Analytics
+# 📊 GITHUB ANALYTICS
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramsingh122&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsingh122&layout=compact&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🏆 Achievements
+# 🐍 SNAKE CONTRIBUTION ANIMATION
 
-* ✅ Data Science Projects Completed
-* ✅ Machine Learning Models Built
-* ✅ Certifications in Cloud / AI / Data
+<p align="center">
+<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 ACHIEVEMENTS
+
+🥈 Microsoft Code-A-Thon — 2nd Rank
+🎓 Dean’s Top 10% Students
+🚀 Amazon Hackathon Participant
+
+---
+
+# 📜 CERTIFICATIONS
+
+✔ Google Advanced Data Analytics
+✔ Cloud Computing — NPTEL IIT Kharagpur
+✔ Advanced SQL — HackerRank
+✔ Excel for Data Analytics — Coursera
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <p align="center">
-<a href="https://linkedin.com/in/YOURLINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="https://linkedin.com/in/ram-singhh-">
+<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
 </a>
-
-<a href="mailto:YOUREMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+<a href="mailto:ramsingverma54@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
+</a>
+<a href="https://github.com/Ramsingh122">
+<img src="https://skillicons.dev/icons?i=github" width="60"/>
 </a>
 </p>
 
 ---
 
-# 😂 Fun Zone
+# 🎯 FUN ZONE
 
-💭 *“Without data, you're just another person with an opinion.”*
+> ⚡ “Data is the new oil, but insight is the new gold.”
 
-⚡ Fun Fact: I talk to datasets more than humans 😄
+☕ Coffee → Code → Model → Repeat
+🤖 I train models more than I train at gym 😄
 
 ---
 
-<!-- FOOTER -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4ecd,50:2575fc,100:6a11cb&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=160&section=footer"/>
 </p>
