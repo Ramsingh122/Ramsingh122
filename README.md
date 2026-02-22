@@ -1,64 +1,55 @@
-<!-- ===================== FUTURISTIC HEADER ===================== -->
+<!-- ================= MATRIX BACKGROUND HEADER ================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=250&section=header&text=Ramsingh%20%7C%20Data%20Scientist&fontSize=45&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=260&section=header&text=Ramsingh%20AI%20Lab&fontSize=50&fontColor=00ffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=34&duration=3000&color=00F7FF&center=true&vCenter=true&width=950&lines=AI+%7C+Machine+Learning+%7C+Data+Science;Python+%7C+SQL+%7C+Analytics;Future+Data+Scientist+🚀;Turning+Data+Into+Intelligence"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=35&duration=3000&color=00FFCC&center=true&vCenter=true&width=1000&lines=Welcome+to+My+AI+Universe;Data+Science+%7C+Machine+Learning+%7C+Analytics;Python+%7C+SQL+%7C+Visualization;Building+Intelligence+From+Data+🚀"/>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramsingh122&label=Profile%20Views&color=ff00ff&style=for-the-badge"/>
-  <img src="https://img.shields.io/github/followers/Ramsingh122?style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/stars/Ramsingh122?style=for-the-badge&color=00ffff"/>
-</p>
-
----
-
-# 🧊 3D ROTATING PROFILE CARD
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Ramsingh122&theme=radical&no-frame=true&row=1&column=6"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Ramsingh122&show_icons=true&theme=radical&hide_border=true"/>
+  <img src="https://komarev.com/ghpvc/?username=Ramsingh122&label=Visitors&color=00ffff&style=for-the-badge"/>
+  <img src="https://img.shields.io/github/followers/Ramsingh122?style=for-the-badge&color=purple"/>
+  <img src="https://img.shields.io/github/stars/Ramsingh122?style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-# 🧠 AI BRAIN ANIMATION
+# 🧊 3D ROTATING AVATAR ZONE
 
 <p align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjV0Z3NqN3U4cGZlZ2Z4dG9zM2x4Z3V6M2Z0aTR3N3U0aGg4c3N5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3o7btPCcdNniyf0ArS/giphy.gif" width="400"/>
+<img src="https://avatars.githubusercontent.com/u/9919?s=280&v=4" width="180" style="border-radius:50%">
+</p>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Ramsingh122&theme=matrix&no-frame=true&margin-w=10"/>
 </p>
 
 ---
 
-# 👨‍💻 ABOUT ME
+# 🌌 NEON GLASS ABOUT CARD
 
 <table>
 <tr>
 <td width="50%">
 
-🎓 4th Year B.Tech Student — Computer Science
-📊 Passionate about Data Science & AI
-⚡ Strong in Data Visualization & ML Models
-🚀 Future Goal: Data Scientist / AI Engineer
+## 👨‍💻 Ramsingh — Data Scientist in Progress
 
-💡 Interests:
+🎓 4th Year Computer Science Student
+📊 Specialization: Data Science & Analytics
+🧠 Passion: AI + Machine Learning
+⚡ Strong in Visualization & Prediction
 
-* Machine Learning
-* Predictive Analytics
-* Automation
-* Data Storytelling
+🚀 Mission:
+
+> Transforming complex data into meaningful intelligence.
 
 </td>
 
 <td width="50%" align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320"/>
 
 </td>
 </tr>
@@ -66,23 +57,51 @@
 
 ---
 
-# 🚀 TECH STACK
+# 🎛 INTERACTIVE BUTTON CONTROL PANEL
 
 <p align="center">
+
+<a href="https://github.com/Ramsingh122">
+<img src="https://img.shields.io/badge/GitHub-Explore-00ffff?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/ram-singhh-">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:ramsingverma54@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Portfolio-Website-purple?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+</p>
+
+---
+
+# 🧠 AI / DATA SCIENCE TECH MATRIX
+
+<p align="center">
+
 <img src="https://skillicons.dev/icons?i=python,java,mysql,git,github,vscode"/>
+
 </p>
 
 <p align="center">
+
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
 <img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+
 </p>
 
 ---
 
-# 🌟 PORTFOLIO PROJECTS
+# 🚀 PROJECT PORTAL
 
 <table>
 <tr>
@@ -91,9 +110,9 @@
 
 ### 🎬 Movie Recommendation System
 
-<img src="https://via.placeholder.com/250x150.png?text=Project+Screenshot"/>
+<img src="https://via.placeholder.com/250x150.png?text=ML+Project"/>
 
-ML model with 85% accuracy using Random Forest.
+Machine Learning model with 85% accuracy.
 
 </td>
 
@@ -101,9 +120,9 @@ ML model with 85% accuracy using Random Forest.
 
 ### 📊 Covid-19 Dashboard
 
-<img src="https://via.placeholder.com/250x150.png?text=Dashboard+Preview"/>
+<img src="https://via.placeholder.com/250x150.png?text=Dashboard"/>
 
-Interactive Tableau analytics dashboard.
+Interactive analytics dashboard.
 
 </td>
 
@@ -111,9 +130,9 @@ Interactive Tableau analytics dashboard.
 
 ### ⏰ Clock App
 
-<img src="https://via.placeholder.com/250x150.png?text=Java+App+Preview"/>
+<img src="https://via.placeholder.com/250x150.png?text=Java+App"/>
 
-Java GUI clock with alarms and modes.
+Java GUI with real-time updates.
 
 </td>
 
@@ -122,16 +141,20 @@ Java GUI clock with alarms and modes.
 
 ---
 
-# 📊 GITHUB ANALYTICS
+# 📊 ANALYTICS CORE
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramsingh122&theme=radical&hide_border=true" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsingh122&layout=compact&theme=radical&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ramsingh122&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramsingh122&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsingh122&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 </p>
 
 ---
 
-# 🐍 SNAKE CONTRIBUTION ANIMATION
+# 🐍 SNAKE CONTRIBUTION SYSTEM
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
@@ -139,48 +162,39 @@ Java GUI clock with alarms and modes.
 
 ---
 
-# 🏆 ACHIEVEMENTS
-
-🥈 Microsoft Code-A-Thon — 2nd Rank
-🎓 Dean’s Top 10% Students
-🚀 Amazon Hackathon Participant
-
----
-
-# 📜 CERTIFICATIONS
-
-✔ Google Advanced Data Analytics
-✔ Cloud Computing — NPTEL IIT Kharagpur
-✔ Advanced SQL — HackerRank
-✔ Excel for Data Analytics — Coursera
-
----
-
-# 🌐 CONNECT WITH ME
+# 🌐 PERSONAL PORTFOLIO INTEGRATION
 
 <p align="center">
-<a href="https://linkedin.com/in/ram-singhh-">
-<img src="https://skillicons.dev/icons?i=linkedin" width="60"/>
+
+<a href="https://your-portfolio-link.com">
+<img src="https://img.shields.io/badge/Visit-My%20Portfolio-ff00cc?style=for-the-badge&logo=vercel"/>
 </a>
-<a href="mailto:ramsingverma54@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" width="60"/>
-</a>
-<a href="https://github.com/Ramsingh122">
-<img src="https://skillicons.dev/icons?i=github" width="60"/>
-</a>
+
 </p>
 
 ---
 
-# 🎯 FUN ZONE
-
-> ⚡ “Data is the new oil, but insight is the new gold.”
-
-☕ Coffee → Code → Model → Repeat
-🤖 I train models more than I train at gym 😄
-
----
+# 🌈 ULTRA COLORFUL FINAL PAGE
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=160&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:dd2476,100:24c6dc&height=220&section=header&text=End%20of%20AI%20Journey%20🚀&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Data%20Science-Future-ff00cc?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI-Innovation-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Power-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Analytics-Intelligence-orange?style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+✨ “The goal is not to predict the future — but to create it.” ✨
+
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:dd2476,100:ff512f&height=160&section=footer"/>
 </p>
