@@ -1,121 +1,196 @@
-<!-- ======================== HEADER ======================== -->
+<!-- ======================= HERO SECTION ======================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=38&duration=2500&color=FF61F6&center=true&vCenter=true&width=1000&lines=Hi+👋+I'm+Ramsingh;🚀+Aspiring+Data+Scientist;📊+Data+Analyst+%7C+ML+Enthusiast;Python+%7C+SQL+%7C+Java;Turning+Data+Into+Insights+✨" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00DBDE,100:FC00FF&height=220&section=header&text=Hi%20👋%20I'm%20Ramsingh&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00cc,100:3333ff&height=180&section=header&text=Welcome%20to%20My%20Data%20World&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://readme-typing-svg.herokuapp.com?size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=4th+Year+Data+Science+Student;AI+%7C+Machine+Learning+%7C+Analytics;Python+%7C+SQL+%7C+Java;Turning+Data+Into+Intelligence+🚀"/>
 </p>
 
----
-
-<!-- ======================== BADGES ======================== -->
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramsingh122&label=Profile%20Views&color=ff69b4&style=for-the-badge"/>
+  <img src="https://komarev.com/ghpvc/?username=Ramsingh122&label=Profile%20Views&color=ff00ff&style=for-the-badge"/>
   <img src="https://img.shields.io/github/followers/Ramsingh122?style=for-the-badge&color=blueviolet"/>
-  <img src="https://img.shields.io/github/stars/Ramsingh122?style=for-the-badge&color=brightgreen"/>
-  <img src="https://img.shields.io/badge/Data%20Science-Lover-orange?style=for-the-badge"/>
-</p>
-
----
-
-# 🌟 About Me
-
-```diff
-+ 🎓 B.Tech Computer Science Student — Lovely Professional University
-+ 📊 Passionate about Data Science, Analytics & Machine Learning
-+ 🧠 Strong in Visualization & Predictive Modeling
-+ ⚡ Love converting raw data into meaningful insights
-```
-
-📫 **Email:** [ramsingverma54@gmail.com](mailto:ramsingverma54@gmail.com)
-📱 **Phone:** +91-9984122109
-
----
-
-# 🎨 Tech Universe
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,mysql" />
-<br><br>
-<img src="https://skillicons.dev/icons?i=excel" />
-<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="55"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="55"/>
-
-</p>
-
-🧪 Libraries: **NumPy • Pandas • Matplotlib • Seaborn**
-
----
-
-# 🚀 Featured Projects
-
-## 🎬 Movie Recommendation System
-
-✨ 85% Accuracy ML Model
-✨ Random Forest & Decision Trees
-✨ User behavior insights & visualization
-
----
-
-## 📊 Covid-19 Dashboard Analysis
-
-✨ Interactive Tableau Dashboard
-✨ Regional trend analysis
-✨ Data-driven decision support
-
----
-
-## ⏰ Clock App (Java GUI)
-
-✨ Digital + Analog Clock
-✨ Alarm & Timezone Features
-✨ Interactive Interface
-
----
-
-# 🏆 Achievements
-
-🥈 Microsoft Code-A-Thon — **2nd Rank**
-🎓 Dean’s Top 10% Students
-🚀 Amazon Hackathon Participant
-
----
-
-# 📜 Certifications
-
-✔ Google Advanced Data Analytics
-✔ Cloud Computing — NPTEL IIT Kharagpur
-✔ Advanced SQL — HackerRank
-✔ Excel for Data Analytics — Coursera
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramsingh122&show_icons=true&theme=radical&border_radius=25" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramsingh122&theme=radical&border_radius=25" height="180"/>
+  <img src="https://img.shields.io/github/stars/Ramsingh122?style=for-the-badge&color=00ffff"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsingh122&layout=compact&theme=radical&border_radius=25"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 
 ---
 
-# 📈 Contribution Graph
+# 🧠 ABOUT ME
+
+<table>
+<tr>
+<td width="50%">
+
+🎓 4th Year B.Tech Student — Computer Science (Data Science)
+📊 Passionate about AI, Machine Learning & Analytics
+🧠 Love solving real-world problems using data
+⚡ Strong in visualization & predictive modeling
+🚀 Future Goal: Data Scientist / AI Engineer
+
+💡 Interests:
+
+* Machine Learning Models
+* Business Intelligence Dashboards
+* Automation using Python
+* Data Storytelling
+
+</td>
+
+<td width="50%" align="center">
+
+<img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="320"/>
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🚀 SKILLS & TECH STACK
+
+<table align="center">
+
+<tr>
+<td align="center"><b>💻 Programming</b></td>
+<td align="center"><b>🤖 Data Science & ML</b></td>
+<td align="center"><b>📊 Visualization</b></td>
+<td align="center"><b>🗄️ Databases</b></td>
+<td align="center"><b>⚙️ Tools</b></td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,mysql"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+<img src="https://img.shields.io/badge/ScikitLearn-F7931E?style=for-the-badge&logo=scikitlearn"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau"/>
+<img src="https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</td>
+
+<td align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🌟 FEATURED PROJECTS
+
+<table>
+<tr>
+
+<td width="33%" align="center">
+
+### 🎬 Movie Recommendation System
+
+Predictive ML model with 85% accuracy
+Random Forest & Decision Trees
+
+</td>
+
+<td width="33%" align="center">
+
+### 📊 Covid-19 Dashboard
+
+Interactive Tableau analytics dashboard
+Regional insights & trends
+
+</td>
+
+<td width="33%" align="center">
+
+### ⏰ Clock App
+
+Java GUI clock with alarms
+Digital & Analog modes
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 📈 GITHUB ANALYTICS DASHBOARD
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramsingh122&theme=react-dark"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Ramsingh122&show_icons=true&theme=radical&border_radius=20" height="170"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramsingh122&theme=radical&border_radius=20" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramsingh122&layout=compact&theme=radical&border_radius=20" height="170"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🏆 ACHIEVEMENTS & CERTIFICATIONS
+
+<table>
+<tr>
+<td>🥈 Microsoft Code-A-Thon — 2nd Rank</td>
+<td>🎓 Dean’s Top 10% Students</td>
+</tr>
+<tr>
+<td>📜 Google Advanced Data Analytics</td>
+<td>📜 Cloud Computing — NPTEL IIT Kharagpur</td>
+</tr>
+<tr>
+<td>📜 Advanced SQL — HackerRank</td>
+<td>📜 Excel for Data Analytics — Coursera</td>
+</tr>
+</table>
+
+---
+
+# 🧭 LEARNING JOURNEY
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Python-Advanced-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Machine%20Learning-Intermediate-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Data%20Visualization-Advanced-pink?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Deep%20Learning-Learning-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# 📊 CONTRIBUTION GRAPH
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramsingh122&theme=react-dark"/>
+</p>
+
+---
+
+# 🌐 CONNECT WITH ME
 
 <p align="center">
 <a href="https://linkedin.com/in/ram-singhh-">
@@ -131,29 +206,15 @@
 
 ---
 
-# 🧠 Data Scientist Mode
+# 🎯 FUN ZONE
 
-```python
-class DataScientist:
+> “Without data, you're just another person with an opinion.”
 
-    def __init__(self):
-        self.skills = ["Python", "SQL", "ML", "Visualization"]
-
-    def solve_problem(self, data):
-        insights = analyze(data)
-        model = build_model(insights)
-        return deploy(model)
-
-ram = DataScientist()
-ram.solve_problem("Real World Data")
-```
+⚡ Fun Fact: I talk to datasets more than humans 😄
+📊 Coffee → Code → Model → Repeat
 
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3333ff,100:ff00cc&height=150&section=footer"/>
-</p>
-
-<p align="center">
-⭐ <b>“Without Data, You're Just Another Person With an Opinion.”</b>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FC00FF,100:00DBDE&height=160&section=footer"/>
 </p>
