@@ -179,7 +179,7 @@ Java GUI clock with alarm & timezone
 
 ---
 
-# 🌈 ULTRA COLORFUL FINAL PAGE
+# 🌈 ULTRA 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff512f,50:dd2476,100:24c6dc&height=220&section=header&text=Thanks%20for%20Visiting%20🚀&fontSize=40&fontColor=ffffff"/>
